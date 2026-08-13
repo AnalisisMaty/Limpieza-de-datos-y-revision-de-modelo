@@ -1,1 +1,2 @@
-# Limpieza-de-datos-y-revision-de-modelo
+# Construyendo un modelo ideal
+
